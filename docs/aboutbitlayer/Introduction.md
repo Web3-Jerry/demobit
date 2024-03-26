@@ -2,13 +2,18 @@
 sidebar_position: 1
 ---
 
-# Introduction
-For users and developers alike, the fundamental concept of Bitlayer is outlined below:
+# Welcome!
+## Start your bitcoin journey from Bitlayer Technical Documentation!
 
-![alt text](intro.png)
+Bitlayer is the first Bitcoin Layer 2 offering Bitcoin-equivalent security and Turing completeness, and the first Bitcoin Layer 2 based on BitVM. 
+Bitlayer is dedicated to bringing secure scalability to the Bitcoin ecosystem, promoting asset diversity, and fostering innovation, ultimately offering users a faster, safer, and more flexible experience.
 
-Bitlayer acts as a Layer 2 solution for Bitcoin, boasting **100% EVM and Ethereum toolchain compatibility**, with BTC as native token(gas token).
+## What Sets Bitlayer Apart?
 
-Users can engage with it using wallets such as **Metamask, imToken, or other Ethereum-compatible wallets**.
+At Bitlayer, our primary focus is to address the scalability challenges of the Bitcoin network.
 
-Developers are afforded the ease of migrating smart contracts written in **Solidity, Vyper, or any other language that compiles to EVM bytecode** directly to Bitlayer, using the toolchain you are familiar with: **Ethereum JSON-RPC, Hardhat**, etc.
+While Bitcoin remains the leading blockchain for value transfer, it faces limitations in terms of scalability and transaction costs. Bitlayer tackles these issues head-on by leveraging cutting-edge cryptographic protocols and virtual machine technology. Our Layer 2 solution, known as BitVM, acts as a complete Ethereum Virtual Machine (EVM) implementation, providing seamless compatibility with the Ethereum ecosystem. This means that developers can easily migrate their existing smart contracts written in Solidity, Vyper, or any other language that compiles to EVM bytecode directly to Bitlayer, using familiar tools such as Ethereum JSON-RPC and Hardhat.
+
+The ingenious integration of Bitcoin smart contracts and Ethereum compatibility sets Bitlayer apart, verifying the integrity of Bitlayer's transactions and ensuring a high level of security, decentralization, and resistance to censorship. These achievements are made possible through recent advancements in cryptography, blockchain protocol design, and hardware optimization.
+
+For detailed insights into our technical architecture, please refer to the [Bitlayer Architecture section](/learn/Overview/Technical%20Architecture.md).
