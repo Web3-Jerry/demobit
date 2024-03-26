@@ -45,10 +45,10 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'demo',
-        path: 'demo',
-        routeBasePath: 'demo',
-        sidebarPath: require.resolve('./sidebarsDemo.js'),
+        id: 'learn',
+        path: 'learn',
+        routeBasePath: 'learn',
+        sidebarPath: require.resolve('./sidebarslearn.js'),
         // ... other options
       },
     ],
@@ -67,14 +67,14 @@ const config = {
           {
             to: '/docs/aboutbitlayer/introduction',   // To highlight the navbar item, you must link to a document, not a top-level directory
             position: 'left',
-            label: 'Demo',
+            label: 'Build Now',
             activeBaseRegex: `/docs/`,
           },
           {
-            to: '/demo/intro',   // To highlight the navbar item, you must link to a document, not a top-level directory
+            to: '/learn/intro',   // To highlight the navbar item, you must link to a document, not a top-level directory
             position: 'left',
-            label: 'Demo',
-            activeBaseRegex: `/demo/`,
+            label: 'Learn More',
+            activeBaseRegex: `/learn/`,
           },
           {
             to: '/blog',
@@ -95,7 +95,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-               label: 'Tutorial',
+               label: 'Build Now',
                to: '/docs/aboutbitlayer/introduction',
               },
             ],
@@ -131,7 +131,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Bitlayer`,
       },
       prism: {
         theme: lightCodeTheme,
