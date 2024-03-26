@@ -65,7 +65,7 @@ const config = {
         },
         items: [
           {
-            to: '/docs/about-bitlayer',   // To highlight the navbar item, you must link to a document, not a top-level directory
+            to: '/docs/aboutbitlayer',   // To highlight the navbar item, you must link to a document, not a top-level directory
             position: 'left',
             label: 'Demo',
             activeBaseRegex: `/docs/`,
