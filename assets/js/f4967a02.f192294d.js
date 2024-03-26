@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[291],{7657:function(e){e.exports=JSON.parse('{"title":"Overview","slug":"/category/overview","permalink":"/demobit/learn/category/overview","navigation":{"previous":{"title":"Demo Docs","permalink":"/demobit/learn/intro"},"next":{"title":"Introduction","permalink":"/demobit/learn/Overview/intro"}}}')}}]);
