@@ -21,3 +21,6 @@ For detailed insights into our technical architecture, please refer to the [Bitl
 
 ### Can I Start Using Bitlayer Today?
 While the Bitlayer mainnet for Bitcoin is scheduled to launch in early April, we are excited to offer a testnet environment where you can experiment with Bitlayer's capabilities. Please refer to our [testnet user guide](/docs/Build/TestnetUserGuide) to get started with our test network and explore the infinite possibilities of Bitcoin.
+
+### What Lies Ahead for Bitlayer?
+While we are preparing for the launch of the Bitlayer mainnet for Bitcoin in early April, our journey to further decentralization is far from over. We are committed to decentralizing each component of the stack, ensuring a resilient and robust network. Stay updated on our progress by following our [Twitter](https://twitter.com/BitLayerLabs) or joining our active [Discord](https://discord.com/invite/GGSjNyD8nj) / [Telegram](https://t.me/bitlayerofficial) community. You can also connect with us on [Medium](https://medium.com/@Bitlayer) to stay abreast of the latest Bitlayer developments.
