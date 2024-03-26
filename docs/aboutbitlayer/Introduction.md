@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Welcome!
-## Start your bitcoin journey from Bitlayer Technical Documentation!
+## Welcome!
+### Start your bitcoin journey from Bitlayer Technical Documentation!
 
 Bitlayer is the first Bitcoin Layer 2 offering Bitcoin-equivalent security and Turing completeness, and the first Bitcoin Layer 2 based on BitVM. 
 Bitlayer is dedicated to bringing secure scalability to the Bitcoin ecosystem, promoting asset diversity, and fostering innovation, ultimately offering users a faster, safer, and more flexible experience.
 
-## What Sets Bitlayer Apart?
+### What Sets Bitlayer Apart?
 
 At Bitlayer, our primary focus is to address the scalability challenges of the Bitcoin network.
 
