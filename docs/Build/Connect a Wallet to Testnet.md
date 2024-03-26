@@ -64,6 +64,13 @@ It may take a few seconds for them to appear, but you can check the status by lo
 
 **And the testnet token has no financial value and cannot be traded at a real price.**
 
+#### Token Contract Information
+
+| Token | Contract Address |
+|---|---|
+| BRC | 0xf4340cf5f3891a3827713b33f769b501a0b5b122 |
+| USDC | 0x209ba92b5cc962673a30998ed7a223109d0be5e8 |
+| USDT | 0xab40fe1dae842b209599269b8dafb0c54a743438 |
 
 ### Transfer Tokens
 You can use your wallet’s normal function for transferring tokens within the Bitlayer Testnet — no additional configurations are needed. The following are the conventional steps:
