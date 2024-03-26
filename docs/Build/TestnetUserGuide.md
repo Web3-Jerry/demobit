@@ -2,6 +2,7 @@
 sidebar_position: 3
 ---
 
+# Testnet User Guide
 ## How to Connect a Wallet to Bitlayer Testnet
 Here is the suggested workflow to explore the Bitlayer Testnet:
 1. Create a MetaMask wallet. Other types of wallets, including Particle, Unisat, Xverse, are also accepted.
