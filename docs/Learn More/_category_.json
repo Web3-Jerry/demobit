@@ -1,0 +1,8 @@
+{
+  "label": "Learn More",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "5 minutes to learn more about Bitlayer and related techs."
+  }
+}
