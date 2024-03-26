@@ -1,6 +1,9 @@
 ---
-sidebar_position: 1
+sidebar_position: 8
 ---
 
 # Mainnet
-The mainnet launch of Bitlayer is scheduled for **5th April**.  
+The mainnet launch of Bitlayer is scheduled for **early April**.  
+
+Before that, Bitlayer has launched the ["Ready Player One" Ecosystem Adoption Program](https://www.bitlayer.org/). Get ready to set sail on this adventure!
+
