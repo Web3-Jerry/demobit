@@ -70,7 +70,7 @@ const config = {
             activeBaseRegex: `/docs/`,
           },
           {
-            to: '/learn/intro',   // To highlight the navbar item, you must link to a document, not a top-level directory
+            to: '/learn/overview/intro',   // To highlight the navbar item, you must link to a document, not a top-level directory
             position: 'left',
             label: 'Learn More',
             activeBaseRegex: `/learn/`,
