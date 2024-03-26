@@ -23,11 +23,11 @@ Add Testnet
 ### You can also add the Bitlayer Testnet manually.
 Once Metamask is open, click the Ethereum Mainnet button and click the Add network button to set up the Bitlayer testnet.
 
-![add network](<add network.png>)
+![addnetwork](<addnetwork.png>)
 
 At the bottom of the existing list, click “Add more networks manually”.
 
-![add manually](<add manually.png>)
+![addmanually](<addmanually.png>)
 
 Fill out the network information as follows. Once the data is entered correctly, please click the "save" button.
 
