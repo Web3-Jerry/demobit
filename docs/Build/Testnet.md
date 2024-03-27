@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Testnet
+# More on Testnet
 
 ## Essential Information for Users
 - Bitlayer's native gas token is BTC. However, on Bitlayer, BTC has an 18-digit precision, which is different from the 8-digit precision of BTC on Bitcoin. This is done to maintain consistency with the default decimal of tokens of EVM-compatible chains.
