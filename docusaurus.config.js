@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bitlayer',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'The First Bitcoin security - equivalent Layer2 based on BitVM.  ',
+  url: 'https://github.com/bitlayer-org',
   baseUrl: '/demobit/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
