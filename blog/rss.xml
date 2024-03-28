@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Bitlayer Blog</title>
-        <link>https://your-docusaurus-test-site.com/demobit/blog</link>
+        <link>https://github.com/bitlayer-org/demobit/blog</link>
         <description>Bitlayer Blog</description>
         <lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Bitlayer: Amplifying Bitcoin]]></title>
-            <link>https://your-docusaurus-test-site.com/demobit/blog/Bitlayer: Amplifying Bitcoin</link>
+            <link>https://github.com/bitlayer-org/demobit/blog/Bitlayer: Amplifying Bitcoin</link>
             <guid>Bitlayer: Amplifying Bitcoin</guid>
             <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Bitcoin is changing. Drastically.]]></description>
