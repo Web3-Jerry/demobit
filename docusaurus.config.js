@@ -76,7 +76,7 @@ const config = {
             activeBaseRegex: `/learn/`,
           },
           {
-            to: '/blog',
+            href: 'https://medium.com/@Bitlayer',
             label: 'Blog',
             position: 'left'
           },
@@ -121,7 +121,7 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                href: 'https://medium.com/@Bitlayer',
               },
               {
                 label: 'GitHub',
