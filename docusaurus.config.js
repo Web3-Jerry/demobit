@@ -59,8 +59,8 @@ const config = {
       navbar: {
         title: 'Bitlayer',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/bitlayer.jpeg',
+          alt: 'Bitlayer Logo',
+          src: 'img/FA_Bitlayer-Logo.png',
         },
         items: [
           {
