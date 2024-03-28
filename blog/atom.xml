@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/demobit/blog"/>
     <subtitle>Bitlayer Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/demobit/img/favicon.ico</icon>
+    <icon>https://your-docusaurus-test-site.com/demobit/img/bitlayer.ico</icon>
     <entry>
         <title type="html"><![CDATA[Bitlayer: Amplifying Bitcoin]]></title>
         <id>Bitlayer: Amplifying Bitcoin</id>
