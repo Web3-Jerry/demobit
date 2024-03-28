@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/aboutbitlayer/introduction">
-            Docusaurus Tutorial - 5min ⏱️
+            Start Building
           </Link>
         </div>
       </div>
