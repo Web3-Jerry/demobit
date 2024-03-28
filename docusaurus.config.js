@@ -56,6 +56,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      initialColorMode: 'dark',
       navbar: {
         title: 'Bitlayer',
         logo: {
