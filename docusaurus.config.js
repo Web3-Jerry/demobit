@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/demobit/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/bitlayer.ico',
   organizationName: 'Bitlayer', // Usually your GitHub org/user name.
   projectName: 'Document', // Usually your repo name.
 
