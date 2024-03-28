@@ -97,6 +97,10 @@ const config = {
                label: 'Build Now',
                to: '/docs/aboutbitlayer/introduction',
               },
+              {
+                label: 'Learn More',
+                to: '/docs/overview/intro',
+               },
             ],
           },
           {
