@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Testnet Scan',
-    Svg: require('@site/static/img/scan.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         A essential tool for exploring and analyzing blockchain data on the testnet. You can dive deep into the testnet's transactions, blocks, and addresses.
