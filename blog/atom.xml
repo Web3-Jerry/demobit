@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/bitlayer-org/demobit/blog</id>
+    <id>https://www.bitlayer.org/demobit/blog</id>
     <title>Bitlayer Blog</title>
     <updated>2024-03-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/bitlayer-org/demobit/blog"/>
+    <link rel="alternate" href="https://www.bitlayer.org/demobit/blog"/>
     <subtitle>Bitlayer Blog</subtitle>
-    <icon>https://github.com/bitlayer-org/demobit/img/bitlayer.ico</icon>
+    <icon>https://www.bitlayer.org/demobit/img/bitlayer.ico</icon>
     <entry>
         <title type="html"><![CDATA[Bitlayer: Amplifying Bitcoin]]></title>
         <id>Bitlayer: Amplifying Bitcoin</id>
-        <link href="https://github.com/bitlayer-org/demobit/blog/Bitlayer: Amplifying Bitcoin"/>
+        <link href="https://www.bitlayer.org/demobit/blog/Bitlayer: Amplifying Bitcoin"/>
         <updated>2024-03-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin is changing. Drastically.]]></summary>
         <content type="html"><![CDATA[<p>Bitcoin is changing. Drastically.</p><p>And the Bitcoin halving is less than 60 days away….</p><p>A new “order” of Ordinals threatens to divide the community. Inscription technology is crowding out monetary transactions. Even NFTs — maybe a maxi’s worst enemy — are coming to Bitcoin.</p><p>But at this point, if you don’t at least understand the trade-offs, then you’re not listening.</p><p>Inscriptions, Ordinals, BRC-20s, NFTs, DeFi, Layer 2s…these developments signal a major movement in the Bitcoin paradigm towards the development of applications, infrastructure, and entire industries built on top of Bitcoin blockchain technology.</p><p>Another signal, perhaps the biggest of them all, was the SEC’s approval of Bitcoin ETFs and the ensuing scramble for exposure from major TradFi companies. Bitcoin purchased through Grayscale, ARK 21Shares, Franklin Templeton, Fidelity and others totaled more than 10x that of what miners were able to extract from the protocol in late February, 2024.</p><p>It’s the confluence of these factors: adoption by global markets, and the development of Bitcoin applications and infrastructure, that gives Bitcoin a new meaning. Namely:</p><p>Increased security from innumerable new transaction fees (especially as mining rewards decrease)
