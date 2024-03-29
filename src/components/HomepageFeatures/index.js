@@ -32,19 +32,42 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description, link }) {
+  if (title === 'title') {
+    return (
+      <div className="col col--12 text--center">
+        <Heading as="h2">
+          <a href={link} className="custom-link">
+            {description}
+          </a>
+        </Heading>
+      </div>
+    );
+  }
+
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <a href={link} className="custom-link">
+          <Svg className={styles.featureSvg} role="img" />
+        </a>
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
+        <Heading as="h3">
+          <a href={link} className="custom-link">
+            {title}
+          </a>
+        </Heading>
+        <p>
+          <a href={link} className="custom-link">
+            {description}
+          </a>
+        </p>
       </div>
     </div>
   );
 }
+
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
