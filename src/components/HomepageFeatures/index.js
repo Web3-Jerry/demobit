@@ -4,45 +4,68 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Learn more about Bitlayer',
+    Svg: require('@site/static/img/Architecture.svg').default,
+    link: '/demobitlayer/docs/AboutBitlayer/intro/',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Bitlayer pioneers with its BitVM approach to solve the trade-off between security and Turing completeness, enabling a robust Bitcoin layer 2 solution.{' '}
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Faucet',
+    Svg: require('@site/static/img/faucet.svg').default,
+    link: 'https://www.bitlayer.org/faucet',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Obtain your Bitlayer Testnet tokens every 24 hours for development here.{' '}
       </>
     ),
   },
   {
-    title: 'Blog Articles Here',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Testnet Scan',
+    Svg: require('@site/static/img/scan.svg').default,
+    link: 'https://testnet-scan.bitlayer.org/en-us/home',
     description: (
       <>
-        Bitlayer pioneers with its BitVM approach to solve the trade-off between security and Turing completeness, enabling a robust Bitcoin layer 2 solution.
+        A essential tool for exploring and analyzing blockchain data on the testnet. You can dive deep into the testnet's transactions, blocks, and addresses. {' '}
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description, link }) {
+  if (title === 'title') {
+    return (
+      <div className="col col--12 text--center">
+        <Heading as="h2">
+          <a href={link} className="custom-link">
+            {description}
+          </a>
+        </Heading>
+      </div>
+    );
+  }
+
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <a href={link} className="custom-link">
+          <Svg className={styles.featureSvg} role="img" />
+        </a>
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
+        <Heading as="h3">
+          <a href={link} className="custom-link">
+            {title}
+          </a>
+        </Heading>
+        <p>
+          <a href={link} className="custom-link">
+            {description}
+          </a>
+        </p>
       </div>
     </div>
   );
