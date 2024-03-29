@@ -3,7 +3,10 @@ sidebar_position: 1
 ---
 
 # Overview
-##        
+##   
+
+![alt text](FA_Bitlayer-Logo-horizontal.png)
+
 ### Start your bitcoin journey from Bitlayer Technical Documentation!
 
 Bitlayer is the first Bitcoin Layer 2 offering Bitcoin-equivalent security and Turing completeness, and the first Bitcoin Layer 2 based on BitVM. 
