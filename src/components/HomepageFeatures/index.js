@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Learn more about Bitlayer',
-    Svg: require('@site/static/img/Architecture.svg').default,
+    Svg: require('@site/static/img/faucet.svg').default,
     description: (
       <>
         Bitlayer pioneers with its BitVM approach to solve the trade-off between security and Turing completeness, enabling a robust Bitcoin layer 2 solution.
