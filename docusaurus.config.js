@@ -100,7 +100,7 @@ const config = {
               },
               {
                 label: 'Learn More',
-                to: '/docs/overview/intro',
+                to: '/learn/overview/intro',
                },
             ],
           },
