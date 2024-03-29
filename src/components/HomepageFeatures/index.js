@@ -32,37 +32,15 @@ const FeatureList = [
   },
 ];
 
-function Feature({ Svg, title, description, link }) {
-  if (title === 'title') {
-    return (
-      <div className="col col--12 text--center">
-        <Heading as="h2">
-          <a href={link} className="custom-link">
-            {description}
-          </a>
-        </Heading>
-      </div>
-    );
-  }
-
+function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <a href={link} className="custom-link">
-          <Svg className={styles.featureSvg} role="img" />
-        </a>
+        <Svg className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3">
-          <a href={link} className="custom-link">
-            {title}
-          </a>
-        </Heading>
-        <p>
-          <a href={link} className="custom-link">
-            {description}
-          </a>
-        </p>
+        <h3>{title}</h3>
+        <p>{description}</p>
       </div>
     </div>
   );
