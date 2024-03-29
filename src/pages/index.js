@@ -7,16 +7,28 @@ import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.headerContent}>
+          <img
+            src="FA_Bitlayer-Logo-horizontal.png" // 替换为您bitlayer.jpeg的图像路径
+            alt="Header Image"
+            className={styles.headerImage}
+          />
+          <div className={styles.textContent}>
+            <Heading as="h1" className="hero__title">
+              {siteConfig.title}
+            </Heading>
+            <p className="hero__subtitle">{siteConfig.tagline}</p>
+          </div>
+        </div>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/aboutbitlayer/introduction">
+            to="/docs/category/about-bitlayer"
+          >
             Start Building
           </Link>
         </div>
@@ -38,3 +50,4 @@ export default function Home() {
     </Layout>
   );
 }
+
