@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Bitlayer',
   tagline: 'The First Bitcoin security - equivalent Layer2 based on BitVM.  ',
-  url: 'https://github.com/bitlayer-org',
+  url: 'https://www.bitlayer.org',
   baseUrl: '/demobit/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
