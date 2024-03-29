@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Faucet',
-    Svg: require('@site/static/img/faucet.svg').default,
+    Svg: require('@site/static/img/logobit.svg').default,
     description: (
       <>
         Obtain your Bitlayer Testnet tokens every 24 hours for development here.
