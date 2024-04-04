@@ -53,7 +53,7 @@ const config = {
         },
         items: [
           {
-            to: '/docs/overview/documentoverview',   // To highlight the navbar item, you must link to a document, not a top-level directory
+            to: '/docs/overview/documentoverview/introduction',   // To highlight the navbar item, you must link to a document, not a top-level directory
             position: 'left',
             label: 'Build Now',
             activeBaseRegex: `/docs/`,
@@ -78,7 +78,7 @@ const config = {
             items: [
               {
                label: 'Build Now',
-               to: '/docs/overview/documentoverview',
+               to: '/docs/overview/documentoverview/introduction',
               },
             ],
           },
